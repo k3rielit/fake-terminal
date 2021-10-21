@@ -1,2 +1,2 @@
-# fake-terminal
-I didn't have space for a debian VM just to create directories and tree them, so here's... Fake tree.
+## TREE
+Currently a basic tree is the only command it can reproduce (with a little design flaw).
